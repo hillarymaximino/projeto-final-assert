@@ -104,9 +104,10 @@ int main(void)
   HAL_TIM_Base_Start_IT(&htim6); // Inicia o Timer de amostragem (5ms)
   HAL_TIM_Base_Start_IT(&htim7); // Inicia o Timer de Debounce do botão
 
+  /*
   HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_1); // Ativa sinal PWM para o LED1
   HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_2); // Ativa sinal PWM para o LED2
-  HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_3); // Ativa sinal PWM para o LED3
+  HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_3); // Ativa sinal PWM para o LED3 */
 
   Bsp_StartListening(); // Dá o play na escuta da UART!
   /* USER CODE END 2 */
