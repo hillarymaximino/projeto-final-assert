@@ -1,0 +1,2 @@
+../Core/Src/Button.c:3:6:Button_Toggle	4	static
+../Core/Src/Button.c:4:4:Button_GetState	4	static
