@@ -1,1 +1,2 @@
-../Core/Src/SerialCmd.c:4:6:SerialCmd_Parse	4
+../Core/Src/SerialCmd.c:12:6:SerialCmd_Parse	10
+../Core/Src/SerialCmd.c:25:6:SerialCmd_SendStatus	2

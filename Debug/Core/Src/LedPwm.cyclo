@@ -1,3 +1,3 @@
-../Core/Src/LedPwm.c:6:6:LedPwm_SelectLED	1
-../Core/Src/LedPwm.c:7:6:LedPwm_UpdateDuty	1
-../Core/Src/LedPwm.c:8:4:LedPwm_GetDuty	1
+../Core/Src/LedPwm.c:11:6:LedPwm_SelectLED	1
+../Core/Src/LedPwm.c:15:6:LedPwm_UpdateDuty	1
+../Core/Src/LedPwm.c:20:4:LedPwm_GetDuty	1

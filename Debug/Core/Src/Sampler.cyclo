@@ -1,2 +1,2 @@
-../Core/Src/Sampler.c:4:6:Sampler_AddSample	2
-../Core/Src/Sampler.c:5:4:Sampler_GetAveragePercent	2
+../Core/Src/Sampler.c:10:6:Sampler_AddSample	2
+../Core/Src/Sampler.c:17:4:Sampler_GetAveragePercent	2
